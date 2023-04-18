@@ -12,6 +12,9 @@ click on connect
 ![image](https://user-images.githubusercontent.com/72852725/232845973-4e00b1f1-a6ea-4ed8-b262-9eb4ab471333.png)
 
 Run this commands. Once it started go to public Ipv4 address (You can find this on instance dashboard) 3.23.64.93 and give the port number 5000. <br>
+
+![image](https://user-images.githubusercontent.com/72852725/232846902-5eef270e-99f1-4b3a-bb9a-ecb5f1998acc.png)
+
 so complete address will be 3.23.64.93:5000<br>
 
 Congratulations!!
